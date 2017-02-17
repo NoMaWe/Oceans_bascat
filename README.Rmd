@@ -9,6 +9,5 @@ output: html_document
 
 I love Octocat. She's the coolest cat in town.
 
-![](octocat.png)
-
 ![](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/assignments/octocat.png)
+
